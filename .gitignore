@@ -1,0 +1,6 @@
+bin/
+*.db
+*.sqlite
+config.toml
+.env
+*.log
